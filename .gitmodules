@@ -2,3 +2,8 @@
 	path = zsh/prezto
 	url = https://github.com/sorin-ionescu/prezto.git
   ignore = dirty
+
+[submodule "vim/clang_complete"]
+	path = vim/clang_complete
+	url = https://github.com/Rip-Rip/clang_complete.git
+  ignore = dirty
