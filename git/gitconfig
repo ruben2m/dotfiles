@@ -126,5 +126,6 @@
 [include]
   path = .gitconfig.user
 [user]
-	name = ruben2m
-	email = ruben2m@gmail.com
+  name = ruben2m
+  email = ruben2m@gmail.com
+

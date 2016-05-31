@@ -7,3 +7,4 @@
 	path = vim/clang_complete
 	url = https://github.com/Rip-Rip/clang_complete.git
   ignore = dirty
+
