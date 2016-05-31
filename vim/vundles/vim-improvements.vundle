@@ -1,9 +1,5 @@
 Bundle "AndrewRadev/splitjoin.vim"
-<<<<<<< HEAD
 Bundle "ruben2m/delimitMate"
-=======
-Bundle "Raimondi/delimitMate"
->>>>>>> upstream/master
 Bundle "Shougo/neocomplete.git"
 Bundle "briandoll/change-inside-surroundings.vim.git"
 Bundle "godlygeek/tabular"
@@ -31,8 +27,5 @@ Bundle "vim-scripts/AutoTag.git"
 Bundle "vim-scripts/lastpos.vim"
 Bundle "vim-scripts/sudo.vim"
 Bundle "goldfeld/ctrlr.vim"
-<<<<<<< HEAD
-=======
 Bundle "editorconfig/editorconfig-vim"
 
->>>>>>> upstream/master

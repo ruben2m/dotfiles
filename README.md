@@ -10,11 +10,8 @@
 
 [![Join the chat at https://gitter.im/skwp/dotfiles](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/skwp/dotfiles?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<<<<<<< HEAD
-    sh -c "`curl -fsSL https://raw.githubusercontent.com/ruben2m/dotfiles/master/install.sh`"
-=======
 #### sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh`"
->>>>>>> upstream/master
+
 
 **Always be sure to run `rake update` after pulling to ensure plugins are updated**
 
@@ -42,22 +39,14 @@ Please use GitHub Issues for pull requests or bug reports only.
 To get started please run:
 
 ```bash
-<<<<<<< HEAD
 sh -c "`curl -fsSL https://raw.githubusercontent.com/ruben2m/dotfiles/master/install.sh`"
-=======
-sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh`"
->>>>>>> upstream/master
 ```
 
 **Note:** YADR will automatically install all of its subcomponents. If you want to be asked
 about each one, use:
 
 ```bash
-<<<<<<< HEAD
 sh -c "`curl -fsSL https://raw.githubusercontent.com/ruben2m/dotfiles/master/install.sh`" -s ask
-=======
-sh -c "`curl -fsSL https://raw.githubusercontent.com/skwp/dotfiles/master/install.sh`" -s ask
->>>>>>> upstream/master
 ```
 
 ## Wait, you're not done! Do this:
@@ -203,10 +192,7 @@ of plugins above to learn more.
  * `Cmd-*` - highlight all occurrences of current word (similar to regular `*` except doesn't move)
  * `,hl` - toggle search highlight on and off
  * `,gg` or `,ag` - Grep command line, type between quotes. Uses Ag Silver Searcher.
-<<<<<<< HEAD
-=======
  * After searching with `,gg` you can navigate the results with `Ctrl-x` and `Ctrl-z` (or standard vim `:cn` and `:cp`)
->>>>>>> upstream/master
  * `,gd` - Grep def (greps for 'def [function name]') when cursor is over the function name
  * `,gcf` - Grep Current File to find references to the current file
  * `//` - clear the search
@@ -214,11 +200,7 @@ of plugins above to learn more.
  * `,mc` - mark this word for MultiCursor (like sublime). Use `Ctrl-n` (next), `Ctrl-p` (prev), `Ctrl-x`(skip) to add more cursors, then do normal vim things like edit the word.
  * `gK` - Opens the documentation for the word under the cursor.
  * Spacebar - Sneak - type two characters to move there in a line. Kind of like vim's `f` but more accurate.
-<<<<<<< HEAD
-=======
  * `:Gsearch foo` - global search, then do your normal `%s/search/replace/g` and follow up with `:Greplace` to replace across all files. When done use `:wall` to write all the files.
- 
->>>>>>> upstream/master
 
 #### File Navigation
 
@@ -321,11 +303,7 @@ These hacks are Lion-centric. May not work for other OS'es. My favorite mods inc
 brew uninstall macvim
 brew remove macvim
 brew cleanup
-<<<<<<< HEAD
 brew install macvim --custom-icons --override-system-vim --with-lua --with-luajit
-=======
-brew install macvim --custom-icons --with-override-system-vim --with-lua --with-luajit
->>>>>>> upstream/master
 ```
 
 ### Terminal Vim troubles with Lua?

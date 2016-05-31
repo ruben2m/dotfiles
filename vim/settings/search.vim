@@ -26,7 +26,6 @@ nnoremap <silent> ,gd :Ag 'def <cword>'<CR>
 " open up a grep line, with a quote started for the search
 nnoremap ,gg :Ag ""<left>
 
-<<<<<<< HEAD
 "Grep Current Partial
 function! AgCurrentPartial()
   let l:fileNameWithoutExtension = expand('%:t:r')
@@ -39,7 +38,5 @@ command! AgCurrentPartial call AgCurrentPartial()
 "
 nnoremap ,gcp :AgCurrentPartial<CR>
 
-=======
->>>>>>> upstream/master
 "Grep for usages of the current file
 nnoremap ,gcf :exec "Ag " . expand("%:t:r")<CR>

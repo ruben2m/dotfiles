@@ -102,12 +102,9 @@ alias glg='git l'
 alias glog='git l'
 alias co='git co'
 alias gf='git fetch'
-<<<<<<< HEAD
-=======
 alias gfp='git fetch --prune'
 alias gfa='git fetch --all'
 alias gfap='git fetch --all --prune'
->>>>>>> upstream/master
 alias gfch='git fetch'
 alias gd='git diff'
 alias gb='git b'
