@@ -5,5 +5,6 @@ path=(
   $HOME/.yadr/bin/yadr
   $HOME/almacen/pgms/android-sdk-linux/tools
   $HOME/almacen/pgms/cpctelera/cpctelera/tools/scripts
+  $HOME/almacen/pgms/android-ndk-r11c
 )
 

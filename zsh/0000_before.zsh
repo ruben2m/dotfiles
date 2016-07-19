@@ -7,3 +7,4 @@ if [ -d $HOME/.zsh.before/ ]; then
 fi
 
 export CPCT_PATH=/home/ruben2m/almacen/pgms/cpctelera/cpctelera
+# export NDK_PROJECT_PATH=/home/ruben2m/almacen/pgms/android-ndk-r11c

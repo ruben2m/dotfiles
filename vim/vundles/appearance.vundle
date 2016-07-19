@@ -1,10 +1,23 @@
+" Colorea los valores de color, p.e. en archivos css color: red
 Bundle "chrisbra/color_highlight.git"
+
+" para el tema solarized. ¿QUITAR?
 Bundle "skwp/vim-colors-solarized"
+
+" status bar configurable
 Bundle "itchyny/lightline.vim"
+
+" Terminal multiplexer TODO
 Bundle "jby/tmux.vim.git"
+
+" Tema visual TODO
 Bundle "morhetz/gruvbox"
+
+" Mostrar las marcas (de la tecla m)
 Bundle "xsunsmile/showmarks.git"
+
+" Tema visual TODO
 Bundle "chriskempson/base16-vim"
 
-" Required for Gblame in terminal vim
+" Required for Gblame in terminal vim TODO
 Bundle "godlygeek/csapprox.git" 

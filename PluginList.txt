@@ -1,0 +1,1 @@
+"Keithbsmiley/investigate.vim" -> gK -> Buscar termino en documentacion

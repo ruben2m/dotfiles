@@ -1,4 +1,10 @@
+
+" Manejo de git->   :Gitv -> ver log de git en vim
 Bundle "gregsexton/gitv"
+
+" Creacion de gist de github (compartir codigo)
 Bundle "mattn/gist-vim"
+
+" Manejo de git desde vim
 Bundle "tpope/vim-fugitive"
 Bundle "tpope/vim-git"
